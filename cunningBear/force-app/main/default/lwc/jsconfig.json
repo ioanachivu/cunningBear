@@ -2,7 +2,11 @@
     "compilerOptions": {
         "experimentalDecorators": true,
         "baseUrl": ".",
-        "paths": {}
+        "paths": {
+            "c/lW_comp": [
+                "lW_comp/lW_comp.js"
+            ]
+        }
     },
     "include": [
         "**/*",
