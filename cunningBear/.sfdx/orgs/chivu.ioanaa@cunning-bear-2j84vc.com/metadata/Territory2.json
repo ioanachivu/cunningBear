@@ -1,0 +1,137 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "territory2Models/My_Cloned_Model/territories/US_East_Coast.territory2",
+      "fullName": "My_Cloned_Model.US_East_Coast",
+      "id": "0MI2p000000bm6MGAQ",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-08-05T10:20:46.000Z",
+      "type": "Territory2"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "territory2Models/Europe/territories/Aunay_Sur_Odon.territory2",
+      "fullName": "Europe.Aunay_Sur_Odon",
+      "id": "0MI2p0000008evaGAA",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-24T12:23:38.000Z",
+      "type": "Territory2"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "territory2Models/Europe/territories/Blangy_le_Chateau.territory2",
+      "fullName": "Europe.Blangy_le_Chateau",
+      "id": "0MI2p0000008evfGAA",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-24T12:23:55.000Z",
+      "type": "Territory2"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "territory2Models/Current_Calendar_Year/territories/US_East_Coast.territory2",
+      "fullName": "Current_Calendar_Year.US_East_Coast",
+      "id": "0MI2p000000bm6HGAQ",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-08-01T13:42:34.000Z",
+      "type": "Territory2"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "territory2Models/Europe/territories/Manche.territory2",
+      "fullName": "Europe.Manche",
+      "id": "0MI2p0000008evVGAQ",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-23T17:06:41.000Z",
+      "type": "Territory2"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "territory2Models/Europe/territories/Normandie.territory2",
+      "fullName": "Europe.Normandie",
+      "id": "0MI2p0000008evGGAQ",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-24T12:22:28.000Z",
+      "type": "Territory2"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "territory2Models/Europe/territories/Germany.territory2",
+      "fullName": "Europe.Germany",
+      "id": "0MI2p0000008ev6GAA",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-23T17:04:37.000Z",
+      "type": "Territory2"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "territory2Models/Europe/territories/France.territory2",
+      "fullName": "Europe.France",
+      "id": "0MI2p0000008ev1GAA",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-24T12:22:03.000Z",
+      "type": "Territory2"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "territory2Models/Europe/territories/Italy.territory2",
+      "fullName": "Europe.Italy",
+      "id": "0MI2p0000008evBGAQ",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-23T17:04:50.000Z",
+      "type": "Territory2"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "territory2Models/Europe/territories/Calvados.territory2",
+      "fullName": "Europe.Calvados",
+      "id": "0MI2p0000008evLGAQ",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-24T12:23:19.000Z",
+      "type": "Territory2"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "territory2Models/Europe/territories/Eure.territory2",
+      "fullName": "Europe.Eure",
+      "id": "0MI2p0000008evQGAQ",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-23T17:06:34.000Z",
+      "type": "Territory2"
+    }
+  ]
+}

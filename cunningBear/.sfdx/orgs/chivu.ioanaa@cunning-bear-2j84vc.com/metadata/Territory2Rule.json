@@ -1,0 +1,41 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-07-23T17:11:36.000Z",
+      "fileName": "territory2Models/Europe/rules/State_Assignement.territory2Rule",
+      "fullName": "Europe.State_Assignement",
+      "id": "0Ir2p0000000EBqCAM",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-23T17:11:36.000Z",
+      "type": "Territory2Rule"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-08-05T07:05:34.000Z",
+      "fileName": "territory2Models/Current_Calendar_Year/rules/US_East_Coast_Zip_Code.territory2Rule",
+      "fullName": "Current_Calendar_Year.US_East_Coast_Zip_Code",
+      "id": "0Ir2p000000blbsCAA",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-08-05T07:05:34.000Z",
+      "type": "Territory2Rule"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-08-05T10:20:46.000Z",
+      "fileName": "territory2Models/My_Cloned_Model/rules/US_East_Coast_Zip_Code.territory2Rule",
+      "fullName": "My_Cloned_Model.US_East_Coast_Zip_Code",
+      "id": "0Ir2p000000blbxCAA",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-08-05T10:20:46.000Z",
+      "type": "Territory2Rule"
+    }
+  ]
+}

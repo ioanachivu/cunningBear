@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0052p000009TMe7AAG",
+    "createdByName": "Ioana Chivu",
+    "createdDate": "1970-01-01T00:00:00.000Z",
+    "fileName": "labels/CustomLabels.labels",
+    "fullName": "CustomLabels",
+    "id": "",
+    "lastModifiedById": "0052p000009TMe7AAG",
+    "lastModifiedByName": "Ioana Chivu",
+    "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+    "namespacePrefix": "",
+    "type": "CustomLabels"
+  }
+}

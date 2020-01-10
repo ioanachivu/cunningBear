@@ -1,0 +1,31 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-07-08T11:31:34.000Z",
+      "fileName": "triggers/triggerExe.trigger",
+      "fullName": "triggerExe",
+      "id": "01q2p0000002fhWAAQ",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-08-20T12:57:32.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-08-20T12:57:32.000Z",
+      "fileName": "triggers/AccountTrigger.trigger",
+      "fullName": "AccountTrigger",
+      "id": "01q2p000000oOtKAAU",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-11-07T11:10:27.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    }
+  ]
+}

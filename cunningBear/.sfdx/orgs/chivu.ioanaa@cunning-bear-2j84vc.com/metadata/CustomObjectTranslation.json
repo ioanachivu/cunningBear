@@ -1,0 +1,44 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "objectTranslations/Code_Group__c-en_US.objectTranslation",
+      "fullName": "Code_Group__c-en_US",
+      "id": "",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "namespacePrefix": "",
+      "type": "CustomObjectTranslation"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "objectTranslations/Example__c-en_US.objectTranslation",
+      "fullName": "Example__c-en_US",
+      "id": "",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "namespacePrefix": "",
+      "type": "CustomObjectTranslation"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "objectTranslations/Group_Code__c-en_US.objectTranslation",
+      "fullName": "Group_Code__c-en_US",
+      "id": "",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "namespacePrefix": "",
+      "type": "CustomObjectTranslation"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-07-01T08:15:54.000Z",
+      "fileName": "staticresources/th_con_app__thLogo.resource",
+      "fullName": "th_con_app__thLogo",
+      "id": "0812p000000tIDVAA2",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-01T08:15:54.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "th_con_app",
+      "type": "StaticResource"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-07-01T08:15:54.000Z",
+      "fileName": "staticresources/th_con_app__thBoldotf.resource",
+      "fullName": "th_con_app__thBoldotf",
+      "id": "0812p000000tIDSAA2",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-01T08:15:54.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "th_con_app",
+      "type": "StaticResource"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-07-01T08:15:54.000Z",
+      "fileName": "staticresources/th_con_app__thBackground.resource",
+      "fullName": "th_con_app__thBackground",
+      "id": "0812p000000tIDUAA2",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-01T08:15:54.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "th_con_app",
+      "type": "StaticResource"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-07-01T08:15:54.000Z",
+      "fileName": "staticresources/th_con_app__thBoldttf.resource",
+      "fullName": "th_con_app__thBoldttf",
+      "id": "0812p000000tIDTAA2",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-01T08:15:54.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "th_con_app",
+      "type": "StaticResource"
+    }
+  ]
+}
