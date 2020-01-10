@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0052p000009bb1TAAQ",
+    "createdByName": "Automated Process",
+    "createdDate": "2019-07-01T08:15:54.000Z",
+    "fileName": "samlssoconfigs/trailhead_SAML_SSO_Setting.samlssoconfig",
+    "fullName": "trailhead_SAML_SSO_Setting",
+    "id": "0LE2p0000008SolGAE",
+    "lastModifiedById": "0052p000009bb1TAAQ",
+    "lastModifiedByName": "Automated Process",
+    "lastModifiedDate": "2019-07-01T08:15:54.000Z",
+    "manageableState": "unmanaged",
+    "type": "SamlSsoConfig"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-08-01T13:41:51.000Z",
+      "fileName": "territory2Models/Current_Calendar_Year/Current_Calendar_Year.territory2Model",
+      "fullName": "Current_Calendar_Year",
+      "id": "0MA2p000000blfrGAA",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-08-05T10:20:47.000Z",
+      "type": "Territory2Model"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-07-23T17:03:03.000Z",
+      "fileName": "territory2Models/Europe/Europe.territory2Model",
+      "fullName": "Europe",
+      "id": "0MA2p000000Co3dGAC",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-08-05T07:06:50.000Z",
+      "type": "Territory2Model"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-08-05T10:20:46.000Z",
+      "fileName": "territory2Models/My_Cloned_Model/My_Cloned_Model.territory2Model",
+      "fullName": "My_Cloned_Model",
+      "id": "0MA2p000000blfwGAA",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-08-05T10:20:47.000Z",
+      "type": "Territory2Model"
+    }
+  ]
+}

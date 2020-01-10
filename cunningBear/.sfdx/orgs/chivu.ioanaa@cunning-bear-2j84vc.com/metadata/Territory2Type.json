@@ -1,0 +1,65 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-07-23T17:02:22.000Z",
+      "fileName": "territory2Types/Country.territory2Type",
+      "fullName": "Country",
+      "id": "0M52p000000PBIgCAO",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-23T17:02:22.000Z",
+      "type": "Territory2Type"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-07-23T17:02:31.000Z",
+      "fileName": "territory2Types/Region.territory2Type",
+      "fullName": "Region",
+      "id": "0M52p000000PBIlCAO",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-23T17:02:31.000Z",
+      "type": "Territory2Type"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-07-23T17:02:45.000Z",
+      "fileName": "territory2Types/Canton.territory2Type",
+      "fullName": "Canton",
+      "id": "0M52p000000PBIvCAO",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-23T17:02:45.000Z",
+      "type": "Territory2Type"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-08-01T13:41:29.000Z",
+      "fileName": "territory2Types/Managed_Accounts.territory2Type",
+      "fullName": "Managed_Accounts",
+      "id": "0M52p000000k9caCAA",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-08-01T13:41:29.000Z",
+      "type": "Territory2Type"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-07-23T17:02:39.000Z",
+      "fileName": "territory2Types/Department.territory2Type",
+      "fullName": "Department",
+      "id": "0M52p000000PBIqCAO",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-23T17:02:39.000Z",
+      "type": "Territory2Type"
+    }
+  ]
+}

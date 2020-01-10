@@ -1,0 +1,44 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-11-07T13:29:00.000Z",
+      "fileName": "dashboards/Salesforce_Adoption_Dashboards/X1_User_Adoption_Logins.dashboard",
+      "fullName": "Salesforce_Adoption_Dashboards/X1_User_Adoption_Logins",
+      "id": "01Z2p000001Rc4cEAC",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-11-07T13:29:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "Dashboard"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-11-07T13:29:00.000Z",
+      "fileName": "dashboards/Salesforce_Adoption_Dashboards/X2_Key_Feature_Adoption.dashboard",
+      "fullName": "Salesforce_Adoption_Dashboards/X2_Key_Feature_Adoption",
+      "id": "01Z2p000001Rc4dEAC",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-11-07T13:29:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "Dashboard"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-11-07T13:29:00.000Z",
+      "fileName": "dashboards/Salesforce_Adoption_Dashboards/X3_Sales_Marketing_Adoption.dashboard",
+      "fullName": "Salesforce_Adoption_Dashboards/X3_Sales_Marketing_Adoption",
+      "id": "01Z2p000001Rc4eEAC",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-11-07T13:29:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "Dashboard"
+    }
+  ]
+}

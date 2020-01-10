@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0052p000009TMe7AAG",
+    "createdByName": "Ioana Chivu",
+    "createdDate": "2019-11-07T08:18:01.000Z",
+    "fileName": "pathAssistants/Milestones.pathAssistant",
+    "fullName": "Milestones",
+    "id": "1CP2p000000bomXGAQ",
+    "lastModifiedById": "0052p000009TMe7AAG",
+    "lastModifiedByName": "Ioana Chivu",
+    "lastModifiedDate": "2019-11-07T08:23:33.000Z",
+    "manageableState": "unmanaged",
+    "type": "PathAssistant"
+  }
+}

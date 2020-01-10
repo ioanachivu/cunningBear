@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0052p000009TMe7AAG",
+    "createdByName": "Ioana Chivu",
+    "createdDate": "2019-11-07T14:02:22.000Z",
+    "fileName": "customPermissions/Validation_Rules_Bypass.customPermission",
+    "fullName": "Validation_Rules_Bypass",
+    "id": "0CP2p000000g1grGAA",
+    "lastModifiedById": "0052p000009TMe7AAG",
+    "lastModifiedByName": "Ioana Chivu",
+    "lastModifiedDate": "2019-11-07T14:02:22.000Z",
+    "manageableState": "unmanaged",
+    "type": "CustomPermission"
+  }
+}

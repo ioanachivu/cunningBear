@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0052p000009TMe7AAG",
+    "createdByName": "Ioana Chivu",
+    "createdDate": "2019-11-07T13:29:00.000Z",
+    "fileName": "dashboards/Salesforce_Adoption_Dashboards",
+    "fullName": "Salesforce_Adoption_Dashboards",
+    "id": "00l2p000002jEIyAAM",
+    "lastModifiedById": "0052p000009TMe7AAG",
+    "lastModifiedByName": "Ioana Chivu",
+    "lastModifiedDate": "2019-11-07T13:29:00.000Z",
+    "manageableState": "unmanaged",
+    "type": "DashboardFolder"
+  }
+}

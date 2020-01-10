@@ -1,0 +1,44 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-07-23T12:40:52.000Z",
+      "fileName": "remoteSiteSettings/animals_http.remoteSite",
+      "fullName": "animals_http",
+      "id": "0rp2p0000009PrnAAE",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-23T12:40:52.000Z",
+      "manageableState": "unmanaged",
+      "type": "RemoteSiteSetting"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-07-23T12:41:17.000Z",
+      "fileName": "remoteSiteSettings/animals_soap.remoteSite",
+      "fullName": "animals_soap",
+      "id": "0rp2p0000009PrsAAE",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-23T12:41:17.000Z",
+      "manageableState": "unmanaged",
+      "type": "RemoteSiteSetting"
+    },
+    {
+      "createdById": "0052p000009TMe7AAG",
+      "createdByName": "Ioana Chivu",
+      "createdDate": "2019-07-01T08:15:54.000Z",
+      "fileName": "remoteSiteSettings/ApexDevNet.remoteSite",
+      "fullName": "ApexDevNet",
+      "id": "0rp2p000000xirCAAQ",
+      "lastModifiedById": "0052p000009TMe7AAG",
+      "lastModifiedByName": "Ioana Chivu",
+      "lastModifiedDate": "2019-07-01T08:15:54.000Z",
+      "manageableState": "unmanaged",
+      "type": "RemoteSiteSetting"
+    }
+  ]
+}

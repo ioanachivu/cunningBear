@@ -1,0 +1,15 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0052p000009TMe7AAG",
+    "createdByName": "Ioana Chivu",
+    "createdDate": "2019-08-13T10:36:53.000Z",
+    "fileName": "emailservices/EmailToSalesforce.xml",
+    "fullName": "EmailToSalesforce",
+    "id": "0912p000000fxUMAAY",
+    "lastModifiedById": "0052p000009TMe7AAG",
+    "lastModifiedByName": "Ioana Chivu",
+    "lastModifiedDate": "2019-08-13T10:36:53.000Z",
+    "type": "EmailServicesFunction"
+  }
+}
